@@ -57,7 +57,7 @@ public class UtilizandoVetores {
 		System.out.println("----\n");
 		
 		System.out.println("Ordenando nomes");
-		String[] vetorNomes = {"Cleiton", "Zorro", "Alvaro"};
+		String[] vetorNomes = {"Cleiton", "Zorro", "Alvaro", "Cleiton1", "123"};
 		Arrays.sort(vetorNomes);
 		for(String nome : vetorNomes)
 			System.out.println(nome);

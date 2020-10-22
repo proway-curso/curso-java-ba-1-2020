@@ -24,10 +24,6 @@ public class UtilizandoLoopForComVetores {
 			System.out.println(i+1 + " - " + vetorNomeAluno[i] + " tem " + vetorIdadeAluno[i] + " ano(s).");
 		}
 		
-		
-		
-		
-		System.out.println();
 	}
 
 }
