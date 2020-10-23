@@ -1,4 +1,4 @@
-package java_elementals.loop.exemplo;
+package loop.exemplo;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package java_elementals.loop.exemplo;
+package loop.exemplo;
 
 public class UtilizandoLoopFor {
 	
