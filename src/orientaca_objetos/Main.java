@@ -22,7 +22,7 @@ public class Main {
 			switch (tipoPessoa) {
 			case 1:
 				pessoa = new PessoaFisica();
-				cadastroPessoaFisica(pessoa);
+				//cadastroPessoaFisica(pessoa);
 				break;
 			case 2:
 				pessoa = new PessoaJuridica();
